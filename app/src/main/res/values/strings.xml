@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hash Security</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="turn_flash_on_off">Turn Flash On/Off</string>
+    <string name="view_finder">View Finder</string>
+    <string name="scanning_with">Scanning with</string>
+    <string name="scanner_library">Scanner Library</string>
+    <string name="result">Result</string>
+    <string name="copy">Copy</string>
+    <string name="scan_with_ml_kit">Scan with ML Kit</string>
+    <string name="scan_with_zxing">Scan with ZXing</string>
+    <string name="developed_by_maulik_hirani">Developed by Maulik Hirani</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
